@@ -1,2 +1,2 @@
-[[children:reading:list1|Детские книги]]\\
+[[children:reading:list1.mn|Детские книги]]\\
 [[servers:letsencrypt|Letsencrypt]]
